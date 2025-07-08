@@ -58,7 +58,7 @@ This project simulates a basic extensible online bookstore system that supports 
   ---
 
 ## Sample Output
-    ![alt text](images/Output_Sample.png)
+    ![Sample Output](images/Output_Sample.png)
 
 ---
 
